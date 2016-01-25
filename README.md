@@ -1,1 +1,1 @@
-# ES5-OOP-Training
+# ES6-OOP-Training
